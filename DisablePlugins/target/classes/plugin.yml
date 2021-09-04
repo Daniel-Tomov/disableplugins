@@ -1,0 +1,11 @@
+name: DisablePlugins
+version: 1.0
+main: me.cageydinosaur.disableplugins.Main
+api-version: 1.16
+commands:
+  disableplugins:
+    usage: /disableplugins
+    description: Disables all plugins listed in config.yml
+  reload:
+    usage: /disableplugins reload
+    description: Reloads the config.yml
