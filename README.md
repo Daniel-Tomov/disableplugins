@@ -10,4 +10,4 @@ Commands:
 
 NOTE: This REQUIRES the plugin "Plugman" to function
 
-Plugman: https://dev.bukkit.org/projects/plugman
+Newest version of Plugman: https://dev.bukkit.org/projects/plugman
